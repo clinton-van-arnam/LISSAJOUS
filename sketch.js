@@ -4,7 +4,7 @@ var t = 0; // time
 var speed = 0.00001;
 
 let numWords = 25;
-let sentence = "HARMONIC MOTION";
+let sentence = "HARMONIC MOTION ";
 let sentenceArray = [];
 let fontSize = 25;
 var xsize = 400;
