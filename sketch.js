@@ -23,7 +23,6 @@ let touch;
 
 function setup() {
   smooth();
-  //noCursor();
   createCanvas(windowWidth, windowHeight);
   textAlign(CENTER);
   fill(255);
