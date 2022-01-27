@@ -1,7 +1,7 @@
 // lissajous curve
 
 var t = 0; // time
-var speed = 0.00001;
+var speed = 0.000001;
 
 let numWords = 25;
 let sentence = "HARMONIC MOTION ";
@@ -17,13 +17,13 @@ let ty = 0;
 //easing
 let ex = 0;
 let ey = 0;
-let easing = 0.0005;
+let easing = 0.00015;
 
 let touch;
 
 function setup() {
   smooth();
-  noCursor();
+  //noCursor();
   createCanvas(windowWidth, windowHeight);
   textAlign(CENTER);
   fill(255);
