@@ -1,7 +1,7 @@
 // lissajous curve
 
 var t = 0; // time
-var speed = 0.000001;
+var speed = 0.000003;
 
 let numWords = 25;
 let sentence = "HARMONY ";
